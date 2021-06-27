@@ -6,6 +6,9 @@ Simple-Server-Code
 ```node
 # node 모듈 설치
 npm i
+```
+
+```node
 # 서버 
 npm run
 ```
